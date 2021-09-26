@@ -1,7 +1,6 @@
 FROM mcr.microsoft.com/vscode/devcontainers/base:0-bionic
 
 LABEL title="Whitepaper" \
-      version="0.1.0" \
       maintainer="Family Office"
 
 RUN apt-get update \
