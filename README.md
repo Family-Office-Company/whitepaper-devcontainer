@@ -29,7 +29,7 @@ This repository contains the VSCode devcontainer image for LaTex whitepaper deve
 
 ## Usage
 
-A usage example can be found [here](https://github.com/Family-Office-Company/whitepaper-template).
+A usage example can be found [here](https://github.com/FamilyOfficeOrg/whitepaper-template).
 
 ## License
 
