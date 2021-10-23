@@ -6,4 +6,4 @@ LABEL title="Whitepaper" \
 RUN apt-get update \
     && apt-get upgrade -y \
     && export DEBIAN_FRONTEND=noninteractive \
-    && apt-get -y install --no-install-recommends texlive-full graphviz inkscape gnuplot
+    && apt-get -y install --no-install-recommends texlive-full graphviz gnuplot
