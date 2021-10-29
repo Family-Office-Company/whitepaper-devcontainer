@@ -24,7 +24,6 @@ This repository contains the VSCode devcontainer image for LaTex whitepaper deve
 
 * Latex Live Full
 * Graphviz
-* Inkscape
 * GnuPlot
 
 ## Usage
